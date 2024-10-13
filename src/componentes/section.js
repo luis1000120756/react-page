@@ -9,7 +9,7 @@ function Section(){
             <div className="card">
               <div className="card-image">
                 <img src={require(`../imagenes/dos.jpg`)} alt="Sample 1" />
-                <span className="card-title">Card Title 1</span>
+                <span className="card-title">Visor 3d</span>
                 <a className="btn-floating halfway-fab waves-effect waves-light red"><i className="material-icons">add</i></a>
               </div>
               <div className="card-content">
@@ -21,8 +21,8 @@ function Section(){
           <div className="col s12 m4"> {/* Columna para otra tarjeta */}
             <div className="card">
               <div className="card-image">
-                <img src={require(`../imagenes/dos.jpg`)} alt="Sample 2" />
-                <span className="card-title">Card Title 2</span>
+                <img src={require(`../imagenes/6106991.jpg`)} alt="Sample 2" />
+                <span className="card-title">Procesador ,3</span>
                 <a className="btn-floating halfway-fab waves-effect waves-light red"><i className="material-icons">add</i></a>
               </div>
               <div className="card-content">
@@ -34,9 +34,9 @@ function Section(){
           <div className="col s12 m4"> {/* Columna para otra tarjeta */}
             <div className="card">
               <div className="card-image">
-                <img src={require(`../imagenes/dos.jpg`)} alt="Sample 3" />
-                <span className="card-title">Card Title 3</span>
-                <a className="btn-floating halfway-fab waves-effect waves-light red"><i className="material-icons">add</i></a>
+                <img src={require(`../imagenes/2225765.jpg`)} alt="Sample 3" />
+                <span className="card-title">Computador Gamer</span>
+                <a className="btn-floating halfway-fab waves-effect waves-light red"><i className="material-icons">add_shopping_cart</i></a>
               </div>
               <div className="card-content">
                 <p>Yet another simple card with interesting content.</p>
